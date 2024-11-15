@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cafe
 - 📫 How to reach me ig-@lex_yonjan
 - 😄 Pronouns: i/me
-- ⚡ Fun fact: ma lex ho
+- ⚡ Fun fact: lexy flexy
 
 <!---
 lexyonjanlama/lexyonjanlama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
