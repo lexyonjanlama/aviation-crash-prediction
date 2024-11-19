@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @lexyonjanlama
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning pickup lines
-- 💞️ I’m looking to collaborate on cafe
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig-@lex_yonjan
 - 😄 Pronouns: i/me
-- ⚡ Fun fact: lexy flexy
+- ⚡ Fun fact: 313.
 
 <!---
 lexyonjanlama/lexyonjanlama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
