@@ -59,3 +59,12 @@ notebooks/aviation_project.ipynb
 Step through the cells to reproduce data cleaning, EDA, modeling, and evaluation.
 Author
 Lex Yonjan Lama
+
+## **Notebook (`aviation_project.ipynb`) Summary**
+- **Step 1: Project Setup** → import libraries  
+- **Step 2: Data Loading & Cleaning** → drop columns, fill missing, fix datatypes  
+- **Step 3: EDA** → distributions, scatterplots, trends, top operators  
+- **Step 4: Feature Engineering** → Hour, Month, DayOfWeek, HighFatality target  
+- **Step 5: Preprocessing & Train/Test Split** → StandardScaler, OneHotEncoder  
+- **Step 6: Model Training** → Logistic Regression + Random Forest  
+- **Step 7: Model Evaluation** → confusion matrix, classification report
